@@ -10,4 +10,4 @@ Lifetimes na przykładzie <U>GuidGenerator'a</U>
 
 **Transient** - każde żądanie nowa instancja <br/>
 **Scoped** - instancja per request, dla jednego przetwarzanego request zostanie utworzona jedna instancja <br/>
-**Singleton** - jeden instancja na cały cykl życia aplikacji
+**Singleton** - jedena instancja na cały cykl życia aplikacji
