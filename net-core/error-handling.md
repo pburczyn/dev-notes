@@ -63,7 +63,7 @@ Content-Language: en
 |--|--|--|
 |Middleware| | |
 |Filter| | |
-|Endpoint| | |
+|Endpoint| | * wersjonowanie api wymaga dodania atrybutu z każdą obsługiwaną wersją do kontrolera |
 
 ### Middleware
 
